@@ -36,3 +36,4 @@ const Facebook={
         city:"Monterrey"
     }
 }
+console.log(Facebook)
